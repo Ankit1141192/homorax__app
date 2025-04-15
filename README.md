@@ -1,6 +1,29 @@
-![Screenshot (1278)](https://github.com/user-attachments/assets/de3ff160-eae0-470a-a4b3-49e3e13fbd88)
-![Screenshot (1279)](https://github.com/user-attachments/assets/2a221917-b395-42ad-a16c-62eb7f1489c6)
-![Screenshot (1280)](https://github.com/user-attachments/assets/087895a8-2139-4218-9906-88cc9f7992d3)
-![Screenshot (1281)](https://github.com/user-attachments/assets/2cb2bf8e-6343-4a77-8d77-9c98c7174304)
-![Screenshot (1282)](https://github.com/user-attachments/assets/e30655a9-1214-4a71-8b23-1f374f9dea5c)
-![Screenshot (1283)](https://github.com/user-attachments/assets/731d65f9-6d9e-4439-81ae-d7ed1d3b0ea4)
+# Homorax - Tenant and Landlord Communication Platform
+
+Homorax is a tenant-landlord communication platform built using **React + Vite**. It enables seamless interaction between tenants and landlords, allowing them to manage property listings, communicate efficiently, and address concerns in real time.
+
+## 🚀 Features
+- 💬 **Messaging System**: Real-time communication between landlords and tenants.
+- 🔒 **Authentication**: Secure login and registration with email & Google authentication.
+- 📑 **Tenant Requests**: Tenants can submit issues or queries directly to landlords.
+- 📌 **Property Management**: Landlords can list and manage properties.
+- 📜 **FAQs & Support**: A section for frequently asked questions and support.
+
+## 🛠️ Tech Stack
+- **Frontend**: React, Vite, CSS
+- **Database**: ( Firebase Firestore,)
+- **Authentication**: Firebase Authentication or custom authentication using JWT
+- **Hosting**: (Netlify, Vercel, or any hosting service)
+
+## 🏗️ Installation & Setup
+1. **Clone the repository**:
+   ```sh
+   git clone https://github.com/yourusername/homorax.git
+   cd homorax
+## some images realted in project
+![Screenshot (1278)](https://github.com/user-attachments/assets/e9e4cb0c-d3c6-4617-8539-791b153ada24)
+![Screenshot (1279)](https://github.com/user-attachments/assets/82860371-d803-40fc-b113-ad68a04f6379)
+![Screenshot (1280)](https://github.com/user-attachments/assets/f18dc7f3-1285-4b78-8b75-f1414c1a73d7)
+![Screenshot (1281)](https://github.com/user-attachments/assets/1434faa7-6fcd-462b-a8ea-337d342818f1)
+![Screenshot (1282)](https://github.com/user-attachments/assets/8bc28f89-a8cf-4e95-a2f2-3522ad2d7313)
+![Screenshot (1283)](https://github.com/user-attachments/assets/869b4c5c-dc63-4c5b-81c2-8fefeeadf08b)
